@@ -1,0 +1,42 @@
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\bin\Debug\net8.0-windows\Casino.wpf.exe
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\bin\Debug\net8.0-windows\Casino.wpf.deps.json
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\bin\Debug\net8.0-windows\Casino.wpf.runtimeconfig.json
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\bin\Debug\net8.0-windows\Casino.wpf.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\bin\Debug\net8.0-windows\Casino.wpf.pdb
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf_MarkupCompile.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf_MarkupCompile.lref
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.g.resources
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.AssemblyInfoInputs.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.AssemblyInfo.cs
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.sourcelink.json
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\refint\Casino.wpf.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.pdb
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\Casino.wpf.genruntimeconfig.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\Casino-WPF\WpfApp1\obj\Debug\net8.0-windows\ref\Casino.wpf.dll
+C:\pra\Casino-WPF\Casino.wpf\bin\Debug\net8.0-windows\Casino.wpf.exe
+C:\pra\Casino-WPF\Casino.wpf\bin\Debug\net8.0-windows\Casino.wpf.deps.json
+C:\pra\Casino-WPF\Casino.wpf\bin\Debug\net8.0-windows\Casino.wpf.runtimeconfig.json
+C:\pra\Casino-WPF\Casino.wpf\bin\Debug\net8.0-windows\Casino.wpf.dll
+C:\pra\Casino-WPF\Casino.wpf\bin\Debug\net8.0-windows\Casino.wpf.pdb
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\App.g.cs
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf_MarkupCompile.cache
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf_MarkupCompile.lref
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\MainWindow.baml
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.g.resources
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.AssemblyInfoInputs.cache
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.AssemblyInfo.cs
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.csproj.CoreCompileInputs.cache
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.sourcelink.json
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.dll
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\refint\Casino.wpf.dll
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.pdb
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\Casino.wpf.genruntimeconfig.cache
+C:\pra\Casino-WPF\Casino.wpf\obj\Debug\net8.0-windows\ref\Casino.wpf.dll
