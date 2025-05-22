@@ -1,0 +1,158 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <!-- Column Definitions -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <!-- For side menu -->
+            <ColumnDefinition Width="90*"/>
+            <!-- Main content -->
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Background image -->
+        <Image Source="/assets/UI/backgrounds/BlackJackBackground.jpg"
+               Stretch="Fill"
+               Grid.ColumnSpan="2"
+               Grid.RowSpan="3"
+               Panel.ZIndex="0"/>
+
+        <!-- Left side menu -->
+        <Viewbox Grid.Column="0"
+                 Grid.Row="1"
+                 VerticalAlignment="Stretch"
+                 HorizontalAlignment="Left">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Image Stretch="Fill" Grid.Row="0" Grid.RowSpan="9" Grid.Column="0" Grid.ColumnSpan="2"
+                   Source="assets/UI/backgrounds/sideMenu.png"/>
+                <Image Source="assets/UI/buttons/closeLeftMenu.png" MaxHeight="200" MaxWidth="200" Margin="100,600,-180,666" Grid.RowSpan="9" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Image Source="assets/chips/notOnTable/chip1.png" Grid.Row="0" Margin="20" />
+                <Image Source="assets/chips/notOnTable/chip5.png" Grid.Row="1" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip10.png" Grid.Row="2" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip20.png" Grid.Row="3" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip50.png" Grid.Row="4" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip100.png" Grid.Row="5" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip500.png" Grid.Row="6" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip1000.png" Grid.Row="7" Margin="20"/>
+                <Image Source="assets/chips/notOnTable/chip5000.png" Grid.Row="8" Margin="20"/>
+            </Grid>
+        </Viewbox>
+
+        <!-- Main content -->
+        <Grid Grid.ColumnSpan="2" Grid.RowSpan="3" Grid.Row="1">
+            <!-- Rows for content spacing -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5"/>
+                <!-- Dealer cards -->
+                <RowDefinition Height="45*"/>
+                <!-- Space / board -->
+                <RowDefinition Height="80*"/>
+                <!-- Player cards -->
+                <RowDefinition Height="45*"/>
+                <RowDefinition Height="5*"/>
+                <!-- chips -->
+                <RowDefinition Height="21*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="40*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Dealer cards at top -->
+            <Viewbox Grid.Row="1"
+                     Grid.ColumnSpan="3"
+                     VerticalAlignment="Top"
+                     HorizontalAlignment="Center">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="50"/>
+                        <!-- Fixed spacing -->
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image x:Name="imgDealerCard1"
+                           Source="/assets/cards/onTable/cards_back.png"
+                           Stretch="Uniform"
+                           HorizontalAlignment="Right"
+                           Margin="0,0,10,0"
+                           Grid.Column="0"/>
+
+                    <Image x:Name="imgDealerCard2"
+                           Source="/assets/cards/onTable/cards_back.png"
+                           Stretch="Uniform"
+                           HorizontalAlignment="Left"
+                           Margin="10,0,0,0"
+                           Grid.Column="2"/>
+
+                </Grid>
+            </Viewbox>
+
+            <!-- Player cards at bottom -->
+            <Viewbox Grid.Row="3"
+                     Grid.Column="1"
+                     Stretch="Fill">
+                <Grid HorizontalAlignment="Center">
+                    <Image x:Name="imgPlayerCard1"
+                           Source="/assets/cards/onTable/cards_back.png"
+                           Stretch="Uniform"
+                           Grid.Column="1"/>
+                    <Image x:Name="imgPlayerCard2"
+                           Source="/assets/cards/notOnTable/cards_back.png"
+                           Stretch="Uniform"
+                           Grid.Column="1"
+                           Margin="-55,-55,55,55"/>
+                    <Image x:Name="imgPlayerCard3"
+                           Source="/assets/cards/notOnTable/cards_back.png"
+                           Stretch="Uniform"
+                           Grid.Column="1"
+                           Margin="-110,-110,110,110"/>
+                </Grid>
+            </Viewbox>
+
+            <!-- Chips at very bottom -->
+            <Viewbox Grid.Row="5"
+                     Grid.Column="1"
+                     VerticalAlignment="Bottom">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="20*"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="imgChipsBet"
+                           Source="/assets/chips/onTable/placeholder.png"
+                           Stretch="Uniform"
+                           Grid.Row="1"/>
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Window>
