@@ -1,0 +1,13 @@
+C:\pra\Casino-WPF\Casino.Core\bin\Debug\net8.0\Casino.Core.deps.json
+C:\pra\Casino-WPF\Casino.Core\bin\Debug\net8.0\Casino.Core.dll
+C:\pra\Casino-WPF\Casino.Core\bin\Debug\net8.0\Casino.Core.pdb
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.csproj.AssemblyReference.cache
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.AssemblyInfoInputs.cache
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.AssemblyInfo.cs
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.csproj.CoreCompileInputs.cache
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.sourcelink.json
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.dll
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\refint\Casino.Core.dll
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\Casino.Core.pdb
+C:\pra\Casino-WPF\Casino.Core\obj\Debug\net8.0\ref\Casino.Core.dll

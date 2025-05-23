@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino.wpf", "Casino.wpf\Casino.wpf.csproj", "{BD25A6EA-BD93-4985-B5A4-6BC0EB4FEB0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino.Core", "Casino.Core\Casino.Core.csproj", "{7CBD1EFF-E5B2-4E42-A701-DFCBF3D2C13D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{BD25A6EA-BD93-4985-B5A4-6BC0EB4FEB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD25A6EA-BD93-4985-B5A4-6BC0EB4FEB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD25A6EA-BD93-4985-B5A4-6BC0EB4FEB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBD1EFF-E5B2-4E42-A701-DFCBF3D2C13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBD1EFF-E5B2-4E42-A701-DFCBF3D2C13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBD1EFF-E5B2-4E42-A701-DFCBF3D2C13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBD1EFF-E5B2-4E42-A701-DFCBF3D2C13D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE58A2D-2980-49A0-AF01-EA41D8422D42}
 	EndGlobalSection
 EndGlobal
